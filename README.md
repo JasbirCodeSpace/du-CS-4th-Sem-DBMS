@@ -1,1 +1,1 @@
-# du-4th-Sem-dbms-study-material
+# du-CS-4th-Sem-dbms
