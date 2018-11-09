@@ -1,1 +1,1 @@
-# du-CS-4th-Sem-dbms
+# DBMS guideline,chapters ppt,book pdf,question papers
